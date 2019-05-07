@@ -21,4 +21,4 @@ The frontend react application is hosted in a docker container under elastic bea
   
   
   
-  -- Frontend boilerplate started from Corey House
+  (Frontend boilerplate started from Corey House)
